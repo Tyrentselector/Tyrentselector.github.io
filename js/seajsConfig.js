@@ -1,0 +1,1 @@
+!function(){seajs.config({alias:{jQuery:"../lib/jquery/dist/jquery.js",swiper:"../lib/Swiper/dist/js/swiper.js"},base:"./js"}),seajs.use("main.js")}();
